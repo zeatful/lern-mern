@@ -1,0 +1,23 @@
+{
+  "name": "lern-mern",
+  "version": "1.0.0",
+  "description": "Learning MERN the hard way!",
+  "main": "webapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeatful/lern-mern.git"
+  },
+  "keywords": [
+    "MERN",
+    "react"
+  ],
+  "author": "Eric Foster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeatful/lern-mern/issues"
+  },
+  "homepage": "https://github.com/zeatful/lern-mern#readme"
+}
