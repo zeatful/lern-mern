@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/zeatful/lern-mern/issues"
   },
-  "homepage": "https://github.com/zeatful/lern-mern#readme"
+  "homepage": "https://github.com/zeatful/lern-mern#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
