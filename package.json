@@ -22,5 +22,8 @@
   "homepage": "https://github.com/zeatful/lern-mern#readme",
   "dependencies": {
     "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1"
   }
 }
